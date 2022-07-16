@@ -1,0 +1,19 @@
+body {
+    padding: 5px;
+    display: block;
+}
+
+#div-lampada {
+    display: flex;
+    justify-content: center;
+}
+
+#div-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#div-buttons button {
+    margin: 0 5px;
+}
